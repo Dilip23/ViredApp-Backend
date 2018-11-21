@@ -1,0 +1,8 @@
+#TODO:  1.Implementing LogOut
+#TODO:  2:Write tests for the api
+#TODO:  3:Basic Android App to Test Functionality
+
+
+
+#TODO:                  -----LATER PRODUCTION-----
+#TODO:              1.Token Expiration
